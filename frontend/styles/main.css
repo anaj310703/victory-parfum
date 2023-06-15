@@ -67,12 +67,7 @@
     color: #BCBBFF !important;
 }
 
-.navbar {  display: flex;
-    justify-content: space-between;
-    box-shadow: 0 5px 15 px rgb(0, 0, 0.06);
-    z-index: 999;
 
-}
 
 /* hero section */
 .hero-section h1 {
